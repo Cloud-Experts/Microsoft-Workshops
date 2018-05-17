@@ -39,6 +39,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [SAP NetWeaver on Azure](https://github.com/Microsoft/MCW-SAP-NetWeaver-on-Azure)
 1. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
 1. [Serverless Architecture](https://github.com/Microsoft/MCW-Serverless-Architecture)
+1. [SQL Server Hybrid Cloud](https://github.com/Microsoft/MCW-SQL-Server-Hybrid-Cloud) 
 
 ## Contributed Content
 Here is list of contributed content that is related to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
