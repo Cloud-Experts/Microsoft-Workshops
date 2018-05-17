@@ -1,3 +1,11 @@
+This respository is the top level for Microsoft Cloud Workshop (MCW) content. Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named `MCW-workshop-topic-name`  and can be found in https://github.com/Microsoft/MCW-workshop-topic-name
+
+## New Workshop Template
+The master template for new workshops is located here: https://github.com/Microsoft/MCW-Template-Cloud-Workshop
+
+## Maintained Workshops
+Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
+
 1. [App Modernization](https://github.com/Microsoft/MCW-App-Modernization)
 1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
 1. Azure Security and Management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
@@ -30,3 +38,7 @@
 1. [SAP NetWeaver on Azure](https://github.com/Microsoft/MCW-SAP-NetWeaver-on-Azure)
 1. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
 1. [Serverless Architecture](https://github.com/Microsoft/MCW-Serverless-Architecture)
+
+## Contributed Content
+Here is list of contributed content that is related to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
+- [content name](https://www.github.com/name)
