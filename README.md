@@ -1,14 +1,15 @@
-This respository is the top level for Microsoft Cloud Workshop (MCW) content. Each workshop is maintained in its own repository.  This repository contains the template for creating a new workshop and a pointer to the individual cloud workshop repositories. Each workshop is named `MCW-workshop-topic-name`  and can be found in https://github.com/Microsoft/MCW-workshop-topic-name
+# Microsoft Cloud Workshop (MCW)
+This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individial workshops.
 
 ## New Workshop Template
-The master template for new workshops is located here: https://github.com/Microsoft/MCW-Template-Cloud-Workshop
+The master template for new workshops is located here: https://github.com/Microsoft/MCW-Template-Cloud-Workshop. Each workshop is named `MCW-workshop-topic-name` and can be found in https://github.com/Microsoft/MCW-workshop-topic-name.
 
 ## Maintained Workshops
 Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
 
 1. [App Modernization](https://github.com/Microsoft/MCW-App-Modernization)
 1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
-1. Azure Security and Management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
+1. [Azure Security and Management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
 1. [Azure Security, Privacy, and Compliance](https://github.com/Microsoft/MCW-Azure-Security-Privacy-and-Compliance)
 1. [Business Continuity and Disaster Recovery](Microsoft/MCW-BCDR)
 1. [Big Compute](Microsoft/MCW-Big-Compute)
