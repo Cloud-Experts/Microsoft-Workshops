@@ -1,5 +1,5 @@
 # Microsoft Cloud Workshop (MCW)
-This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individial workshops.
+This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 
 ## New Workshop Template
 The master template for new workshops is located here: https://github.com/Microsoft/MCW-Template-Cloud-Workshop. Each workshop is named `MCW-workshop-topic-name` and can be found in https://github.com/Microsoft/MCW-workshop-topic-name.
