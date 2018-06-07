@@ -14,6 +14,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
 1. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
 1. [Azure security, privacy, and compliance](https://github.com/Microsoft/MCW-Azure-Security-Privacy-and-Compliance)
+1. [Azure Stack](https://github.com/Microsoft/MCW-Azure-Stack)
 1. [Business continuity and disaster recovery](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery)
 1. [Big Compute](https://github.com/Microsoft/MCW-Big-Compute)
 1. [Big data and visualization](https://github.com/Microsoft/MCW-Big-Data-and-Visualization)
