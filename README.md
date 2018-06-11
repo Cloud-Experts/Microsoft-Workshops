@@ -33,7 +33,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
 1. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 1. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
-1. [Migrate EDW to Azure SQL Data Warehouse](https://github.com/Microsoft/MCW-Migrate-EDW-Azure-SQL-Data-Warehouse)
+1. [Migrate EDW to Azure SQL Data Warehouse](https://github.com/Microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse)
 1. [Mobile app innovation](https://github.com/Microsoft/MCW-Mobile-App-Innovation)
 1. [Modern cloud apps](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
 1. [Optimized architecture](https://github.com/Microsoft/MCW-Optimized-Architecture)
