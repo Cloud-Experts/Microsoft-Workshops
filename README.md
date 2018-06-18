@@ -22,7 +22,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [Containers and DevOps](https://github.com/Microsoft/MCW-Containers-and-DevOps)
 1. [Cognitive services and deep learning](https://github.com/Microsoft/MCW-Cognitive-Services-and-Deep-Learning)
 1. [Continuous delivery in VSTS and Azure](https://github.com/Microsoft/MCW-Continuous-Delivery-in-VSTS-and-Azure)
-1. [Data Platform upgrade and migration](https://github.com/Microsoft/MCW-Data-Platform-Migration-Upgrade)
+1. [Data Platform upgrade and migration](https://github.com/Microsoft/MCW-Data-Platform-upgrade-and-migration)
 1. [Enterprise-class networking](https://github.com/Microsoft/MCW-Enterprise-Class-Networking)
 1. [Enterprise-ready cloud](https://github.com/Microsoft/MCW-Enterprise-Ready-Cloud)
 1. [Intelligent analytics](https://github.com/Microsoft/MCW-Intelligent-Analytics)
