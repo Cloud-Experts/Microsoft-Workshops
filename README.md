@@ -29,7 +29,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [Intelligent vending machines](https://github.com/Microsoft/MCW-Intelligent-Vending-Machines)
 1. [Internet of Things](https://github.com/Microsoft/MCW-Internet-of-Things)
 1. [IoT for business](https://github.com/Microsoft/MCW-IoT-for-Business)
-1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-Shift-ARM)
+1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
 1. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
 1. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 1. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
