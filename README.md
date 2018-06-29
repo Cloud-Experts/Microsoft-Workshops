@@ -2,10 +2,11 @@
 This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 
 ## Getting Started (How to Effectively Deliver a Cloud Workshop)
-Microsoft FTE start here: (https://microsoft.sharepoint.com/sites/infopedia_g01/pages/cards/cloud-workshop-announcement.aspx)
+[Microsoft FTE, please access trainer resounces here](https://microsoft.sharepoint.com/sites/infopedia_g01/pages/cards/cloud-workshop-announcement.aspx)
+[For Microsoft Certified Trainers and Learning Partners, please access trainer resources here](https://learningdownloadcenter.microsoft.com)
 
 ## New Workshop Template
-The master template for new workshops is located here: https://github.com/Microsoft/MCW-Template-Cloud-Workshop. Each workshop is named `MCW-workshop-topic-name` and can be found in https://github.com/Microsoft/MCW-workshop-topic-name.
+The master template for new workshops is located [here](https://github.com/Microsoft/MCW-Template-Cloud-Workshop). Each workshop is named `MCW-workshop-topic-name` and can be found in: https://github.com/Microsoft/MCW-workshop-topic-name.
 
 ## Maintained Workshops
 Here is the list of workshops currently being maintained, before creating a new workshop, determine if the work you would like to do is better captured as part of these workshops:
