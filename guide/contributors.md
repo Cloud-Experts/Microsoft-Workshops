@@ -51,3 +51,23 @@ git pull upstream master
 ```git
 git push
 ```
+
+## Create pull request
+
+After you have made the necessary changes for the update or test/fixes and committed them to your fork, you will need to submit a pull request (PR), referencing the [GitHub issue](reviewers.md#create-a-new-issue-for-update) that was created by the stakeholder.
+
+1.  Navigate to your fork on GitHub.
+
+2.  You will see a message stating that this branch is x commits ahead of Microsoft:master. Select **Pull request** to the right of this message.
+
+    ![Screenshot of fork showing pull request option](media/pull-request-button.png 'Pull request button')
+
+3.  The "Comparing changes" page will show you the number of commits, files changed, and whether there are merge conflicts. Ensure your commits are included and click **Create pull request**.
+
+    ![Screenshot of the comparing changes page. Click Create pull request.](media/create-pull-request-page.png 'Comparing changes page')
+
+4.  In the "Open a pull request" page, enter a descriptive title for your PR, as well as comments asking for a review. Be sure to **reference the GitHub issue** that was [created by the stakeholder](reviewers.md#create-a-new-issue-for-update) requesting the update (if exists). You can do this in the comments by typing a hashtag (#), which will display a list of issues in the parent repo.
+
+    ![Screenshot of the open pull request page. Reference the associated GitHub issue in the comments.](media/open-pull-request-page.png 'Open pull request')
+
+5.  Select **Create pull request**.
