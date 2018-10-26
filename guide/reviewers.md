@@ -51,3 +51,19 @@ Consider using the following features to review changes associated with the PR:
 2.  If you find an item in a file that you need to have the contributor change, select the **+** button that appears when you hover over the changed line. From here, type in your comments and click **Start a review**. This will notify the contributor that they have a review on their PR. They will have options to reply with a comment or request a review of their changes.
 
     ![Animated gif showing adding a new review item to a file](media/start-review.gif 'Start review')
+
+3.  After you are done writing the review, click **Finish your review**.
+
+4.  The **Review changes** button on top of the Files tab will show a badge with the number of reviews you added. Click on this button to submit your reviews when you are ready. Your options are to submit a comment without approval, submit feedback and approve, or request changes that must be addressed before merging. When you are done writing comments and selecting the appropriate review option, click **Submit review** to finalize.
+
+    ![Submit review dialog with comments](media/submit-review-dialog.png 'Submit review dialog')
+
+5.  After submitting the review, it will appear on the **Conversation** tab of the pull review. This is where you can see all reviews and associated comments in one place.
+
+    ![PR conversation tab with new review displayed](media/new-review-with-comments.png 'New review with comments')
+
+6.  Once the contributor has resolved the review, you will have the option to dismiss or complete the review.
+
+7.  Once feedback and any issues have been addressed, merge the update to the repo by clicking on the **Merge pull request** button.
+
+    ![Click Merge pull request to accept PR](media/merge-pull-request.png 'Merge pull request')

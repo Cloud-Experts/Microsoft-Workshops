@@ -71,3 +71,15 @@ After you have made the necessary changes for the update or test/fixes and commi
     ![Screenshot of the open pull request page. Reference the associated GitHub issue in the comments.](media/open-pull-request-page.png 'Open pull request')
 
 5.  Select **Create pull request**.
+
+## Addressing review feedback
+
+Reviewers will make comments on your PR and submit reviews on specific lines of your committed files. GitHub should automatically notify you when these actions occur, depending on your settings. In either case, it is your responsibility to monitor your PR for feedback and address any issues with comments and additional commits. Any commits you make to your fork will automatically be added to your PR while it is still open.
+
+Here is an example of a review that was submitted by a reviewer, which appears on the **Conversation** tab of the pull review. This is where you can see all reviews and associated comments in one place:
+
+![PR conversation tab with new review displayed](media/new-review-with-comments.png 'New review with comments')
+
+In the screenshot below, the contributor has committed a new change after the review ("Changed VSTS to Azure DevOps"), and has added a comment to the review item to that effect. Select **Resolve conversation** in this case:
+
+![Screenshot showing comments to the review with new commit below](media/resolve-review.png 'Resolve conversation')
