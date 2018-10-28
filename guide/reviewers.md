@@ -81,3 +81,5 @@ The final steps are performed by the stakeholder who created the issue to initia
 3. Select **Confirm merge** to complete the pull request.
 4. Navigate to the **Issues** tab in GitHub and select the Issue which initiated the current maintenance cycle.
 5. Enter any comments, then select **Close issue**.
+
+    - If the contributor associated the issue with the pull request, the issue should have automatically closed when you merged the PR.
