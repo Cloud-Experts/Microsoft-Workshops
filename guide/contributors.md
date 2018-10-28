@@ -95,3 +95,5 @@ Here is an example of a review that was submitted by a reviewer, which appears o
 In the screenshot below, the contributor has committed a new change after the review ("Changed VSTS to Azure DevOps"), and has added a comment to the review item to that effect. Select **Resolve conversation** in this case:
 
 ![Screenshot showing comments to the review with new commit below](media/resolve-review.png 'Resolve conversation')
+
+The update process completes when the stakeholder merges your pull request.
