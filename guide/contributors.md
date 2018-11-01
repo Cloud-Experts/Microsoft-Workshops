@@ -1,8 +1,6 @@
 # Guide to contributing MCW package updates
 
-Thank you for contributing to our MCW packages! There are two official types of maintenance schedules each of our packages undergo by our team of maintainers: test/fixes and updates. A test/fix happens more often and is a way to ensure minor changes to the Azure portal and its services are accounted for in the hands-on labs, and that any breaking changes are resolved for a smooth user experience. Updates, on the other hand, consist of significant changes to the whiteboard design documents, hands-on-labs, and associated preferred solutions. These involve [subject matter expert (SME) reviews](./reviewers.md) as part of the update process.
-
-The instructions contained within this guide apply to both test/fixes and updates, with the [review process]() section pertaining only to updates.
+Thank you for contributing to our MCW packages! This guide walks you through the MCW package update process, whether you are part of the regular package maintenance team or an external contributor.
 
 ## Fork the MCW repository
 
@@ -54,7 +52,7 @@ git push
 
 ## Create pull request
 
-After you have made the necessary changes for the update or test/fixes and committed them to your fork, you will need to submit a pull request (PR), referencing the [GitHub issue](reviewers.md#create-a-new-issue-for-update) that was created by the stakeholder.
+After you have made the necessary changes for the update and committed them to your fork, you will need to submit a pull request (PR), referencing the [GitHub issue](reviewers.md#create-a-new-issue-for-update) that was created by the stakeholder.
 
 1.  Navigate to your fork on GitHub.
 
