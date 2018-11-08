@@ -22,6 +22,8 @@ To fork an MCW repository, perform the following steps:
 
    ![Click the Clone or download button to copy the clone path](media/clone-or-download.png 'Clone or download button')
 
+   - **Note:** If you are making a small change, you may not need to clone the fork to your local machine. It is possible to edit the files in your fork through the GitHub UI, then submit a pull request.
+
 ## Update your fork with upstream changes
 
 To update your existing fork with changes made to the Microsoft MCW repository, open a new command prompt and **navigate to your forked repository**.
