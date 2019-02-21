@@ -1,5 +1,5 @@
 # Microsoft Cloud Workshop (MCW)
-This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
+This is the top level repository for the Microsoft Cloud Workshop (MCW) program. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
 
 ## Getting started (how to effectively deliver a cloud workshop)
 - [Microsoft FTE, please access trainer resources here](https://microsoft.sharepoint.com/sites/infopedia_g01/pages/cards/cloud-workshop-announcement.aspx)
@@ -47,7 +47,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [SQL Server hybrid cloud](https://github.com/Microsoft/MCW-SQL-Server-Hybrid-Cloud)
 1. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
 
-## Contributed Content
+## Related content
 Here is list of contributed content that is related to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
 - [What the Hack? Challenge-Based Hackathons](https://github.com/microsoft/whatthehack)
 - [MTC Azure AI Labs](https://github.com/microsoft/mtc_azureAILabs)
