@@ -48,7 +48,7 @@ Here is the list of workshops currently being maintained, before creating a new 
 1. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
 
 ## Related content
-Here is list of contributed content that is related to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
+Here is a list of contributed content that is relevant to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
 - [What the Hack? Challenge-Based Hackathons](https://github.com/microsoft/whatthehack)
 - [MTC Azure AI Labs](https://github.com/microsoft/mtc_azureAILabs)
 
