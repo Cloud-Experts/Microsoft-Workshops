@@ -14,3 +14,11 @@ Once you’ve installed the extension, add the following user setting to VS Code
 "pasteImage.path": "./media/”
 
 If you want to specify the image name (use-kabob-case, don’t include file extension), simply type in the name, highlight it, then use the Ctrl+Alt+V (Mac: Cmd+Alt+V) command to have Paste Image do its magic.
+
+### Other Visual Studio Code extensions
+
+- https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+  - Automatically fixes page references
+  - Adds in hyperlinks when you paste a URL after highlighting text
+  - Adds keyboard shortcuts like Ctrl+B and Ctrl+I to bold and italicize text
+  - Allows you to add and automatically update existing table of contents (TOC)
