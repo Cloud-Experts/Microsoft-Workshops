@@ -1,6 +1,358 @@
-<HTML>
-    <TITLE>MCW Placeholder Page</TITLE>
-    <BODY>
-        <h1>Microsoft Cloud Workshops - Placeholder</h1>
-    </BODY>
-</HTML>
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Cloud Workshop</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="Styles/libs/kendo/2018R2/kendo.common.min.css" rel="stylesheet">
+    <link href="Styles/libs/kendo/2018R2/kendo.bootstrap.min.css" rel="stylesheet">
+    <link href="Styles/styles.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="innerwrapper">
+            <div class="header_logo">
+                <a href="/">
+                    <img src="Images/Logo.svg" alt="Microsoft Cloud Workshop Logo" />
+                    <span>Microsoft Cloud Workshop</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="main">
+
+        <div class="hero">
+            <div class="hero_image">
+                <img src="Images/Hero.jpg" alt="Microsoft Cloud Workshop " />
+            </div>
+            <div class="innerwrapper">
+                <div class="hero_text desktop">
+                    <p>Microsoft Cloud Workshop (MCW) is a hands-on community development.</p>
+                    Use our customer-ready content to host workshops that foster cloud learning and adoption. Contribute your own content and feedback to add to a robust database of training guides for deploying advanced Azure workloads on the Microsoft Cloud Platform.
+                </div>
+            </div>
+        </div>
+
+
+        <div class="hero_text mobile">
+            <p>Microsoft Cloud Workshop (MCW) is a hands-on community development experience.</p>
+            Use our customer-ready content to host events with customers and partners, or contribute your own content and feedback to add to a robust database of training guides for deploying advanced Azure workloads on the Microsoft Cloud Platform.
+        </div>
+
+
+
+        <div class="section">
+            <div class="innerwrapper">
+                <div class="blurb">
+
+                    <div class="blurb_video">
+                        <div class="videoWrapper">
+                            <iframe allowfullscreen title="Welcome to Microsoft Cloud Workshop" border="0" src="https://www.microsoft.com/en-us/videoplayer/embed/RE2PtTo"></iframe>
+                        </div>
+                    </div>
+                    <h2>Welcome</h2>
+                    <span>Learn more about the MCW program and our vision for this community.</span>
+                </div>
+                <div class="blurb">
+                    <a href="HowToDeliver/index.html">
+                        <img srcset="Images/How_to_Deliver-1x.png, Images/How_to_Deliver-2x.png 2x"
+                             src="Images/How_to_Deliver-1x.png" alt="How To Deliver">
+                        <h2>How to deliver</h2>
+                    </a>
+                    <span>Find resources for delivering your own workshop experience.</span>
+                </div>
+                <div class="blurb">
+                    <a href="https://github.com/Microsoft/MCW/tree/master/guide" target="_blank">
+                        <img srcset="Images/How_to_Contribute-1x.png, Images/How_to_Contribute-2x.png 2x"
+                             src="Images/How_to_Contribute-1x.png" alt="How To Contribute">
+                        <h2>How to contribute</h2>
+                    </a>
+                    <span>Create and share your own content and review content from others.</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="section section-alt">
+            <div class="innerwrapper">
+
+                <div class="workshop_top">
+                    <h1>Microsoft Cloud Workshop Library</h1>
+                    <p>Use the following filters to search our database of Microsoft Cloud Workshop materials. Each workshop includes presentation decks, trainer and student guides, and hands-on lab guides.</p>
+                </div>
+
+
+                <div class="workshop_filter">
+                    <div class="workshop_filter_title">Workload</div>
+                    <ul class="workshop_filter_list" id="filters">
+                        <li>
+                            <input type="checkbox" name="application_development" value=".application_development" id="application_development" class="k-checkbox" />
+                            <label class="k-checkbox-label" for="application_development">Application Development</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="azure_infrastructure" value=".azure_infrastructure" id="azure_infrastructure" class="k-checkbox" />
+                            <label class="k-checkbox-label" for="azure_infrastructure">Azure Infrastructure</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="aa_ai" value=".aa_ai" id="aa_ai" class="k-checkbox" />
+                            <label class="k-checkbox-label" for="aa_ai">Advanced Analytics/Artificial Intelligence (AA/AI)</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="data" value=".data" id="data" class="k-checkbox" />
+                            <label class="k-checkbox-label" for="data">Data</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="iot" value=".iot" id="iot" class="k-checkbox" />
+                            <label class="k-checkbox-label" for="iot">Internet of Things (IoT)</label>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div class="workshop_list">
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-App-Modernization" target="_blank"></a>
+                        <div class="workshop_item_title">App modernization</div>
+                        <p>Design a modernization plan to move services from on-premises to the cloud by leveraging cloud, web, and mobile services, secured by Azure Active Directory.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Azure-Stack" target="_blank"></a>
+                        <div class="workshop_item_title">Azure Stack</div>
+                        <p>Design a hybrid cloud architecture using a combination of the Azure public cloud and Azure Stack. Recommend the appropriate hybrid cloud systems based on customer requirements.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Big-Compute" target="_blank"></a>
+                        <div class="workshop_item_title">Big Compute</div>
+                        <p>Set up and configure a scale-out media processing architecture using Azure Batch. Use big compute techniques with less code and accomplish tasks declaratively.</p>
+                    </div>
+
+                    <div class="workshop_item aa_ai">
+                        <a href="https://github.com/Microsoft/MCW-Big-Data-and-Visualization" target="_blank"></a>
+                        <div class="workshop_item_title">Big Data and visualization</div>
+                        <p>Build a complete machine learning model in Azure Databricks and deploy a web app for predicting flight delay. Train the model to report data.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Building-A-Resilient-IaaS-Architecture" target="_blank"></a>
+                        <div class="workshop_item_title">Building a resilient IaaS architecture</div>
+                        <p>Build resilient architectures by designing for converting/extending an existing IaaS deployment to account for resiliency and high availability.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery" target="_blank"></a>
+                        <div class="workshop_item_title">Business continuity and disaster recovery</div>
+                        <p>Design solutions for three customer environments using Azure business continuity and disaster recovery (BCDR) technologies to build more complex and robust BCDR plans.</p>
+                    </div>
+
+                    <div class="workshop_item aa_ai">
+                        <a href="https://github.com/Microsoft/MCW-Cognitive-Services-and-Deep-Learning" target="_blank"></a>
+                        <div class="workshop_item_title">Cognitive Services and Deep Learning</div>
+                        <p>Combine pre-built AI models with custom AI services to create intelligent solutions atop unstructured text data by designing and implementing a text analytics pipeline.</p>
+                    </div>
+
+                    <div class="workshop_item application_development azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Containers-and-DevOps" target="_blank"></a>
+                        <div class="workshop_item_title">Containers and DevOps</div>
+                        <p>Using DevOps best practices, build a proof of concept to transform a PaaS application to a container-based application with multi-tenant web app hosting.</p>
+                    </div>
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-Continuous-Delivery-in-Azure-DevOps" target="_blank"></a>
+                        <div class="workshop_item_title">Continuous delivery in Azure DevOps</div>
+                        <p>Set up and configure continuous delivery within Azure to reduce manual errors using Azure Resource Manager templates, Azure DevOps, and Git repositories for source control.</p>
+                    </div>
+
+                    <div class="workshop_item data">
+                        <a href="https://github.com/Microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics" target="_blank"></a>
+                        <div class="workshop_item_title">Cosmos DB Real-Time Advanced Analytics</div>
+                        <p>Design a data pipeline solution leveraging Cosmos DB for scalable ingest and global distribution. Use Azure Databricks Delta with a modern data warehouse to reduce risk.</p>
+                    </div>
+
+                    <div class="workshop_item data">
+                        <a href="https://github.com/Microsoft/MCW-Data-Platform-upgrade-and-migration" target="_blank"></a>
+                        <div class="workshop_item_title">Data Platform upgrade and migration</div>
+                        <p>Conduct a site analysis for a customer to compare cost, performance, and level of effort required to migrate from Oracle to SQL Server.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Enterprise-Class-Networking" target="_blank"></a>
+                        <div class="workshop_item_title">Enterprise-class networking in Azure</div>
+                        <p>Set up, configure, plan, and design secure virtual networks in Azure with multiple subnets to filter and control network traffic.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Enterprise-Ready-Cloud" target="_blank"></a>
+                        <div class="workshop_item_title">Enterprise-ready cloud</div>
+                        <p>Design a governance plan for a manufacturing company to showcase the security and governance features of Azure and control costs.</p>
+                    </div>
+
+                    <div class="workshop_item aa_ai">
+                        <a href="https://github.com/Microsoft/MCW-Intelligent-Analytics" target="_blank"></a>
+                        <div class="workshop_item_title">Intelligent analytics</div>
+                        <p>Employ real-time analytics without IoT as you enable intelligent conversation in a real-time chat pipeline enabled by machine learning to visualize customer sentiment.</p>
+                    </div>
+
+                    <div class="workshop_item iot">
+                        <a href="https://github.com/Microsoft/MCW-Internet-of-Things" target="_blank"></a>
+                        <div class="workshop_item_title">Internet of Things</div>
+                        <p>Design an end-to-end IoT solution implementing device registration with the IoT Hub Device Provisioning Service and visualizing hot data with Power BI.</p>
+                    </div>
+
+                    <div class="workshop_item iot">
+                        <a href="https://github.com/Microsoft/MCW-IoT-and-the-Smart-City" target="_blank"></a>
+                        <div class="workshop_item_title">IoT and the Smart City</div>
+                        <p>Build a smart city solution by managing intelligent devices with IoT Hub and running the IoT Remote Monitoring starter solution to improve traffic and public transportation.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <div class="workshop_item_title">Line of Business application migration</div>
+                        <p>Design a migration strategy for both Windows and Linux servers, including virtual and physical services, as well as databases, from on-premises to Azure.</p>
+                    </div>
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-Media-AI" target="_blank"></a>
+                        <div class="workshop_item_title">Media AI</div>
+                        <p>Design a video-based learning solution that supports uploading, playback, and encoding with Azure Video Indexer, integrated through Logic Apps and Azure Functions.</p>
+                    </div>
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-Microservices-Architecture" target="_blank"></a>
+                        <div class="workshop_item_title">Microservices architecture</div>
+                        <p>Design scalable microservices solutions using Service Fabric and Azure Functions to optimize the architecture to handle traffic spikes for an online ticket vendor.</p>
+                    </div>
+
+                    <div class="workshop_item data">
+                        <a href="https://github.com/Microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse" target="_blank"></a>
+                        <div class="workshop_item_title">Migrate EDW to Azure SQL Data Warehouse</div>
+                        <p>Plan a migration of an on-premises enterprise data warehouse to Azure SQL Data Warehouse and integrate it with both cloud-based and on-premises services and data sources.</p>
+                    </div>
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-Modern-Cloud-Apps" target="_blank"></a>
+                        <div class="workshop_item_title">Modern cloud apps</div>
+                        <p>Deploy, configure, and implement an end-to-end secure and PCI compliant solution for e-commerce that is based on Azure App Services, Azure Active Directory, and Azure DevOps.</p>
+                    </div>
+
+                    <div class="workshop_item application_development azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-OSS-PaaS-and-DevOps" target="_blank"></a>
+                        <div class="workshop_item_title">OSS PaaS and DevOps</div>
+                        <p>Use DevOps tools to migrate an existing MERN stack application from a hosted environment into Azure PaaS, integrating and deploying complex open-source software workloads.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-SAP-Hana-on-Azure" target="_blank"></a>
+                        <div class="workshop_item_title">SAP HANA on Azure</div>
+                        <p>Provision a highly available deployment of SAP HANA in Azure, identifying infrastructure components necessary to support a clustered deployment and testing failover scenarios.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-SAP-NetWeaver-on-Azure" target="_blank"></a>
+                        <div class="workshop_item_title">SAP NetWeaver on Azure</div>
+                        <p>Deploy and configure SAP NetWeaver on Azure infrastructure and describe the proper configuration of Azure solution components to run SAP applications.</p>
+                    </div>
+
+                    <div class="workshop_item azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Security-baseline-on-Azure" target="_blank"></a>
+                        <div class="workshop_item_title">Security baseline on Azure</div>
+                        <p>Implement Azure Security Center and Microsoft Compliance Manager to ensure a secure and privacy-focused cloud-based architecture that follows compliance standards.</p>
+                    </div>
+
+                    <div class="workshop_item application_development">
+                        <a href="https://github.com/Microsoft/MCW-Serverless-Architecture" target="_blank"></a>
+                        <div class="workshop_item_title">Serverless architecture</div>
+                        <p>Implement a series of Azure Functions that independently scale and break down business logic to discrete components, allowing customers to pay only for the services they use.</p>
+                    </div>
+
+                    <div class="workshop_item data">
+                        <a href="https://github.com/Microsoft/MCW-SQL-Server-Hybrid-Cloud" target="_blank"></a>
+                        <div class="workshop_item_title">SQL Server hybrid cloud</div>
+                        <p>Design a hybrid disaster recovery solution with SQL Server scale-out to help a media company handle spikes in load, encrypt data, and implement an archival strategy.</p>
+                    </div>
+
+                    <div class="workshop_item data azure_infrastructure">
+                        <a href="https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning" target="_blank"></a>
+                        <div class="workshop_item_title">Windows Server and SQL Server 2008 end of service planning</div>
+                        <p>Develop and evaluate migration plans to move workloads to Azure while keeping mission-critical apps and data protected during transition and modernization.</p>
+                    </div>
+                </div>
+
+                <div class="workshop_featured">
+                    <div class="workshop_featured_title">Related Content</div>
+                    <ul>
+                        <li><a href="https://github.com/microsoft/whatthehack" target="_blank">What the Hack? Challenge-Based Hackathons</a></li>
+                        <li><a href="https://github.com/microsoft/mtc_azureAILabs" target="_blank">MTC Azure AI Labs</a></li>
+                        <li><a href="https://azure.github.io/learnAnalytics-public/" target="_blank">LearnAI</a></li>
+                    </ul>
+
+
+                    <div class="workshop_featured_title">Announcements</div>
+                    <div class="workshop_item">
+                        <div class="workshop_item_title">Archive notice</div>
+                        <p>With the release of the new "Line of Business application migration" workshop, both the "Lift and shift/ARM" and "Linux lift and shift" workshops will be archived on June 28. They are no longer being maintained.</p>
+                    </div>
+                    <div class="workshop_item">
+                        <div class="workshop_item_title">New security workshop</div>
+                        <p>The "Azure security, privacy, and compliance" and "Azure security and management" workshops have been consolidated into the new "Security baseline on Azure" workshop. Please use the new workshop from now on.</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+
+    <footer>
+        <div class="innerwrapper">
+            <div class="footer_inner">
+
+                <div class="footer_links">
+                    <a href="https://privacy.microsoft.com/en-US/" target="_blank">Privacy & cookies</a>
+                    <a href="https://github.com/Microsoft/MCW/blob/master/CONTRIBUTING.md" target="_blank">Contributing</a>
+                    <a href="https://github.com/Microsoft/MCW/blob/master/LICENSE" target="_blank">License</a>
+                    <a href="https://github.com/Microsoft/MCW/blob/master/LICENSE-CODE" target="_blank">License code</a>
+                </div>
+
+                &copy;
+                <script type="text/javascript">document.write(new Date().getFullYear());</script> Microsoft
+            </div>
+        </div>
+    </footer>
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/kendo.all.min.js"></script>
+    <script src="Scripts/isotope.pkgd.min.js"></script>
+    <script src="Scripts/visus.js"></script>
+
+    <script type="text/javascript">
+
+        $(function () {
+            var $container = $('.workshop_list'),
+                $checkboxes = $('#filters input');
+
+            $container.isotope({
+                itemSelector: '.workshop_list > .workshop_item',
+                layoutMode: 'vertical',
+                transitionDuration: '.3s',
+            });
+
+            $checkboxes.change(function () {
+                var filters = [];
+                // get checked checkboxes values
+                $checkboxes.filter(':checked').each(function () {
+                    filters.push(this.value);
+                });
+                // ['.red', '.blue'] -> '.red, .blue'
+                filters = filters.join(', ');
+                $container.isotope({ filter: filters });
+            });
+        });
+
+    </script>
+</body>
+</html>

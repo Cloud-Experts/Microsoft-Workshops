@@ -1,0 +1,11 @@
+@import "libs/normalize";
+@import "libs/fontawesome-all.css";
+@import "libs/bourbon/bourbon";
+@import "libs/neat/neat";
+@import "variables";
+
+@import "parts/header";
+@import "parts/footer";
+@import "parts/base";
+@import "parts/kendo"; 
+@import "parts/fonts";

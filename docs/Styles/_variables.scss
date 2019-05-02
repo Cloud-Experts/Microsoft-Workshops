@@ -1,0 +1,121 @@
+//layout
+$maxwidth: 1520px;
+$padding: 40px;
+
+//colors
+$red:#F64944;
+$green:#0AAE5E;
+$yellow:#ffe640;
+$blue:#287cd3;
+$orange:orange;
+
+//pw validation colors
+$pw-red: #F64944;
+$pw-orange: #EB8133;
+$pw-orange-yellow: #E0BD25;
+$pw-yellow-green: #ADD517;
+$pw-light-green: #57CA0B;
+$pw-green: #01BF00;
+
+//global
+$border-radius:0px;
+
+$theme-primary:$blue;
+$theme-primary-lightbg:lighten($theme-primary,57%);
+$theme-secondary:#0052a5;
+
+//text
+$text-color:#444;
+$text-size:16px;
+$text-family:'Segoe UI', 'Open Sans', 'Roboto', sans-serif;
+
+$link-color:$theme-primary;
+$link-color-hover:darken($theme-primary,10%);
+
+//navigation
+$nav-trans-time:.3s;
+
+$nav-color:$theme-primary;
+$nav-background-hover:$nav-color;
+$nav-color-hover:#fff;
+
+$subnav-background:#fff;
+$subnav-color:#777;
+$subnav-background-hover:$theme-primary-lightbg;
+$subnav-color-hover:$theme-primary;
+
+$nav-mobile-bg:$theme-primary;
+$nav-mobile-color:#fff;
+$nav-mobile-button-color:$theme-primary;
+
+//forms
+$input-border-width:1px;
+$input-border-color:#ccc;
+$input-border-color-focus:$theme-primary;
+$input-border-radius:$border-radius;
+$input-background:#fff;
+$input-background-focus:$theme-primary-lightbg;
+$input-height:40px;
+$input-width:300px;
+
+//grids
+$grid-border-radius:$border-radius;
+$grid-header-background:$theme-primary;
+$grid-header-border-color:darken($grid-header-background,5%);
+$grid-header-border-wrap-color:transparent;
+$grid-header-color:#fff;
+$grid-border-width:1px;
+$grid-border-color:#d9d9df;
+
+//buttons
+$btn-border-radius:$border-radius;
+$btn-background:$theme-primary;
+$btn-color:#fff;
+$btn-border:0px solid darken($btn-background,5%);
+$btn-background-hover:lighten($btn-background,5%);
+$btn-background-active:darken($btn-background,5%);
+
+$btn-danger-background:$red;
+$btn-danger-color:#fff;
+$btn-danger-border:0px solid darken($btn-danger-background,5%);
+$btn-danger-background-hover:lighten($btn-danger-background,5%);
+$btn-danger-background-active:darken($btn-danger-background,5%);
+
+$btn-success-background:$green;
+$btn-success-color:#fff;
+$btn-success-border:0px solid darken($btn-success-background,5%);
+$btn-success-background-hover:lighten($btn-success-background,5%);
+$btn-success-background-active:darken($btn-success-background,5%);
+
+//notifications
+$note-border-width:1px;
+$note-border-radius:$border-radius;
+
+$note-info-background:lighten($theme-primary,49%);
+$note-info-border:lighten($theme-primary,35%);
+$note-info-color:$theme-primary;
+
+$note-warning-background:lighten($yellow,30%);
+$note-warning-border:$yellow;
+$note-warning-color:#9C8200;
+
+$note-error-background:lighten($red,32%);
+$note-error-border:lighten($red,25%);
+$note-error-color:$red;
+
+$note-success-background:#DCF9E1;
+$note-success-border:#A7E4B1;
+$note-success-color:$green;
+
+//tooltips
+$tooltip-background:darken($theme-primary,15%);
+$tooltip-border-radius:$border-radius;
+$tooltip-border-width:1px;
+$tooltip-border:$tooltip-background;
+$tooltip-color:#fff;
+
+//Text Inputs
+
+$textinputs: 'input[type="text"], input[type="email"], input[type="password"], input[type="number"], input[type="tel"], input[type="search"], input[type="date"], input[type="url"], .k-ie input.k-textbox';
+$textinputs-focus: 'input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="search"]:focus, input[type="date"]:focus, input[type="url"]:focus';
+$textinputs-disabled: 'input[type="text"][disabled], input[type="email"][disabled], input[type="password"][disabled], input[type="number"][disabled], input[type="tel"][disabled], input[type="search"][disabled], input[type="date"][disabled], input[type="url"][disabled]';
