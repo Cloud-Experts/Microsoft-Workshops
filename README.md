@@ -1,5 +1,5 @@
 # Microsoft Cloud Workshop (MCW)
-For all current Microsoft Cloud Workshop content, please visit our new website [Microsoft Cloud Workshop](microsoftcloudworkshop.com). Here you will find: 
+For all current Microsoft Cloud Workshop content, please visit our new website [Microsoft Cloud Workshop](http://microsoftcloudworkshop.com). Here you will find: 
 - How-to guides for delivering workshop and lab experiences
 - Links to all workshop repositories, with facilitator guides, participant guides, and step-by-step lab guides 
 - Templates for developing content
