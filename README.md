@@ -7,8 +7,8 @@ For all current Microsoft Cloud Workshop content, please visit our new website [
 - Sample agendas
 - Contributor guides for creating and reviewing MCW content
 
-## Retiring workshops
-To access our our current repos, please visit [Microsoft Cloud Workshop](http://microsoftcloudworkshop.com). The following list of workshops are being retired, but are available until June 28. None of these workshops are being maintained by the MCW team. 
+## Archived workshops
+To access current worrkshop repos, please visit [Microsoft Cloud Workshop](http://microsoftcloudworkshop.com). The following list of workshops are archived. You can still view content and fork to your own repo, but they are no longer being maintained by the Microsoft MCW team. 
 
 1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
 1. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
