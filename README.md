@@ -15,6 +15,7 @@ To access current worrkshop repos, please visit [Microsoft Cloud Workshop](http:
 1. [Intelligent vending machines](https://github.com/Microsoft/MCW-Intelligent-Vending-Machines)
 1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
 1. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
+1. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 1. [Mobile app innovation](https://github.com/Microsoft/MCW-Mobile-App-Innovation)
 1. [Optimized architecture](https://github.com/Microsoft/MCW-Optimized-Architecture)
 1. [OSS DevOps](https://github.com/Microsoft/MCW-OSS-DevOps)
