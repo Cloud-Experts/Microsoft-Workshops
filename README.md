@@ -21,6 +21,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 1. [Optimized architecture](https://github.com/Microsoft/MCW-Optimized-Architecture)
 1. [OSS DevOps](https://github.com/Microsoft/MCW-OSS-DevOps)
 1. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
+1. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
 
 ## New workshop template
 To create your own MCW, you can find the master template for new workshops located [here](https://github.com/Microsoft/MCW-Template-Cloud-Workshop). If you are interested in creating a new workshop, please reach out to hopero@microsoft.com. 
