@@ -17,6 +17,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 1. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
 1. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 1. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
+1. [Migrate EDW to Azure SQL Data Warehouse](https://github.com/Microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse)
 1. [Mobile app innovation](https://github.com/Microsoft/MCW-Mobile-App-Innovation)
 1. [Optimized architecture](https://github.com/Microsoft/MCW-Optimized-Architecture)
 1. [OSS DevOps](https://github.com/Microsoft/MCW-OSS-DevOps)
